@@ -10,3 +10,8 @@ Complete the simpleArraySum function in the editor. The function must return the
 
 - Parameters:
   * ar: an array of integers
+
+### Input Format
+
+- The first line contains an integer 𝑛, denoting the size of the array.
+- The second line contains 𝑛 space-separated integers representing the elements of the array.
