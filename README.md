@@ -32,3 +32,11 @@ The size of the array (𝑛) and the values of the integers are constrained by t
 1 2 3 4 10 11
 
 ```
+
+### Sample Output
+
+``` java
+
+31
+
+```
