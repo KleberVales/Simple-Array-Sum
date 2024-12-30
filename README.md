@@ -23,3 +23,12 @@ Print the sum of the array's elements as a single integer.
 ### Constraints
 
 The size of the array (𝑛) and the values of the integers are constrained by the problem specifications.
+
+### Sample Input
+
+``` java
+
+6
+1 2 3 4 10 11
+
+```
