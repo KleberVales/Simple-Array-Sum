@@ -19,3 +19,7 @@ Complete the simpleArraySum function in the editor. The function must return the
 ### Output Format
 
 Print the sum of the array's elements as a single integer.
+
+### Constraints
+
+The size of the array (𝑛) and the values of the integers are constrained by the problem specifications.
